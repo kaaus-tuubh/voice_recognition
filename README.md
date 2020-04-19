@@ -1,2 +1,3 @@
 # voice_recognition
-voice recognition demo by creating the guessing game (basic)
+voice recognition demo by creating the guessing game (basic - without tts)
+
